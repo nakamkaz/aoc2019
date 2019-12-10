@@ -3,5 +3,5 @@ https://adventofcode.com/2019
 use;
 go run day#p#.go < inputfile 2> /dev/null
 or 
-./day#p#.go < inputfile 2> /dev/null
+./day#p# < inputfile 2> /dev/null
 
